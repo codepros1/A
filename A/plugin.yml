@@ -1,6 +1,6 @@
 name: A
-author: CodingLife
+author: CodePro1
 version: 1.0
-main: me.benzplayz.Core
+main: me.codepro1.Core
 commands: 
     h:

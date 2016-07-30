@@ -1,0 +1,6 @@
+name: A
+author: CodingLife
+version: 1.0
+main: me.benzplayz.Core
+commands: 
+    h:
